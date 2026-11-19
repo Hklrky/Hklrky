@@ -5,7 +5,7 @@
 # Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" height="28" alt="Waving hand" /> My name is Haikal Risky
 
 ### Beginner Web Dev & Still Learning Java
-I've been learning programming for about 3 years since middle/high school.
+I've been learning programming for about 3 years since junior high school.
 
 - 🌍 Based in **Trenggalek, Indonesia**
 - ✉️ Contact me at **[haikalriskiaddtyya7739@gmail.com](mailto:haikalriskiaddtyya7739@gmail.com)**
